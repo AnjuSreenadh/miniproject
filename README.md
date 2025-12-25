@@ -49,5 +49,5 @@ The analysis helps identify insights related to employee roles, departments, exp
 
 ## ▶️ How to Use
 1. Install **Power BI Desktop**
-2. Clone this repository:
+2. Clone this repository:https://github.com/AnjuSreenadh/miniproject
  
