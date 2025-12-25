@@ -50,5 +50,4 @@ The analysis helps identify insights related to employee roles, departments, exp
 ## ▶️ How to Use
 1. Install **Power BI Desktop**
 2. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/usa-employee-analysis.git
+ 
